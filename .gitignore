@@ -1,1 +1,6 @@
 node_modules library root
+
+packege-lock.json
+.gitignore
+.vscode/*
+node_modules/*
